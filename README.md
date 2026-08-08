@@ -6,7 +6,7 @@ Mi perfil combina el conocimiento del diseño y la comunicación de sistemas des
 
 ### 🚀 Sobre mí
 * 🎓 Próximamente iniciando el **Máster Universitario en Ciberseguridad y Privacidad** (UOC), con especialización en Pentesting, Análisis Forense y Ciberdefensa (Especialización en sistemas).
-* 📡 Mi formación en Ingeniería de Telecomunicaciones me proporciona una base sólida para abordar la seguridad en **IoT y Hardware Hacking**.
+* 📡 Mi formación en Ingeniería de Telecomunicaciones (UAB) me proporciona una base sólida para abordar la seguridad en **IoT y Hardware Hacking**.
 
 ### 💻 Intereses y Foco Actual
 * **Seguridad Ofensiva:** Explotación de vulnerabilidades, inyecciones (SQL, LDAP) y metodologías de pentesting.
