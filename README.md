@@ -5,9 +5,8 @@
 Mi perfil combina el conocimiento del diseño y la comunicación de sistemas desde la capa física (radiofrecuencia, antenas) con la seguridad ofensiva y defensiva. Me apasiona entender cómo funcionan las cosas por dentro para encontrar sus vulnerabilidades y fortificarlas.
 
 ### 🚀 Sobre mí
-* 🎓 Próximamente iniciando el **Máster Universitario en Ciberseguridad y Privacidad** (UOC), con especialización en Pentesting, Análisis Forense y Ciberdefensa.
-* 📡 Mi formación en Telecomunicaciones me proporciona una base sólida para abordar la seguridad en **IoT y Hardware Hacking**.
-* 🛠️ Acostumbrado a trastear a bajo nivel: desde la modificación de *firmwares* y arquitecturas en sistemas embebidos, hasta la configuración de laboratorios de análisis.
+* 🎓 Próximamente iniciando el **Máster Universitario en Ciberseguridad y Privacidad** (UOC), con especialización en Pentesting, Análisis Forense y Ciberdefensa (Especialización en sistemas).
+* 📡 Mi formación en Ingeniería de Telecomunicaciones me proporciona una base sólida para abordar la seguridad en **IoT y Hardware Hacking**.
 
 ### 💻 Intereses y Foco Actual
 * **Seguridad Ofensiva:** Explotación de vulnerabilidades, inyecciones (SQL, LDAP) y metodologías de pentesting.
